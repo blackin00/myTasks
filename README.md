@@ -8,4 +8,4 @@
 ## Iniciando projeto:
 ### npm start (irá iniciar o projeto, pode demorar um pouco se for iniciar pela primeira vez.)
 
-# OBS: ele vai abrir automaticamente no localhost (o website) no seu navegador padrão..
+### OBS: ele vai abrir automaticamente no localhost (o website) no seu navegador padrão..
