@@ -1,6 +1,6 @@
-# Este foi um projeto de react que "eu" fiz, eu vi meio que um video que ensinava react e nele teria um projeto que seria esse, e achei interessante lançar aqui no github.
+# Este é um projeto, chamado MyTasks, onde você pode adicionar uma tarefa, pode remove-la, ou completar e marcar (ficticio).
 
-## como posso baixar as dependencias e ligar o projeto? (você tem de ter o nodeJS instalado, pode instalar em [nodejs](https://nodejs.org) )
+## como posso baixar as dependencias e ligar o projeto? (você tem de ter o nodeJS instalado, pode instalar em [nodejs](https://nodejs.org)
 
 ## Baixando dependências:
 ### npm install (ele vai baixar todas as dependencias que estão no package.json).
